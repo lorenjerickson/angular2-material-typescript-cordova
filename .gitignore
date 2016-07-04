@@ -57,3 +57,4 @@ gulpfile.js
 gulpfile.js.map
 
 /platforms/
+/plugins/
